@@ -1,0 +1,2 @@
+cd ./Source
+webpack --watch

@@ -1,0 +1,14 @@
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\xApplication.deps.json
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\xApplication.runtimeconfig.json
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\xApplication.runtimeconfig.dev.json
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\xApplication.dll
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.csproj.CoreCompileInputs.cache
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.AssemblyInfoInputs.cache
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.AssemblyInfo.cs
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\xApplication.pdb
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.dll
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.pdb
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\Database\xApplicationDatabase.db
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\wwwroot\index.html
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\bin\Debug\netcoreapp2.0\wwwroot\x.js
+C:\Users\A_A\Documents\Visual Studio 2017\Projects\xApplication\xApplication\obj\Debug\netcoreapp2.0\xApplication.csprojResolveAssemblyReference.cache
